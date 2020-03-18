@@ -1,3 +1,3 @@
-"hello world"
+puts "hello world"
 
 hi = "hello_world"
