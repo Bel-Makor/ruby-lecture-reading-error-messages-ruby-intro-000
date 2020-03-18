@@ -1,3 +1,3 @@
-puts "hello world"
+"hello world"
 
 hi = "hello_world"
